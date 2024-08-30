@@ -1,0 +1,6 @@
+../ESP/circularBuffer.c:22:9:circularBufferIsFull	5
+../ESP/circularBuffer.c:48:9:circularBufferIsEmpty	2
+../ESP/circularBuffer.c:70:6:circularBufferClear	1
+../ESP/circularBuffer.c:89:21:circularBufferWriteChar	3
+../ESP/circularBuffer.c:123:21:circularBufferWriteString	5
+../ESP/circularBuffer.c:173:6:circularBufferRead	2

@@ -1,0 +1,46 @@
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/hal/../draw/../misc/lv_color.h:593:26:lv_color_hex	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/core/lv_disp.h:182:26:lv_scr_act	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/core/lv_disp.h:205:20:lv_scr_load	1
+../GUI/smartHome.c:249:9:stringToDayOfWeek	3
+../GUI/smartHome.c:261:9:stringToMonth	3
+../GUI/smartHome.c:273:7:dayOfWeekToString	2
+../GUI/smartHome.c:285:7:monthToString	3
+../GUI/smartHome.c:299:6:temperatureArcCallback	1
+../GUI/smartHome.c:305:6:coolingButtonCallback	4
+../GUI/smartHome.c:329:6:heatingButtonCallback	4
+../GUI/smartHome.c:353:6:menuButtonCallback	2
+../GUI/smartHome.c:363:6:temperatureButtonCallback	2
+../GUI/smartHome.c:373:6:homeButtonCallback	2
+../GUI/smartHome.c:383:6:lightFanButtonCallback	2
+../GUI/smartHome.c:393:6:settingsButtonCallback	2
+../GUI/smartHome.c:403:6:wifiButtonCallback	3
+../GUI/smartHome.c:422:6:dateTimeButtonCallback	2
+../GUI/smartHome.c:432:6:connectWifiButtonCallback	2
+../GUI/smartHome.c:442:6:disconectWifiButtonCallback	3
+../GUI/smartHome.c:458:6:wifiConnectCallback	12
+../GUI/smartHome.c:509:6:wifiPasswordKeyboardEvent	2
+../GUI/smartHome.c:521:6:closeButtonCallback	2
+../GUI/smartHome.c:531:6:calendarCallback	2
+../GUI/smartHome.c:551:6:calendarTickButtonCallback	2
+../GUI/smartHome.c:561:6:calendarCrossButtonCallback	2
+../GUI/smartHome.c:571:6:timeScreenTickButtonCallback	2
+../GUI/smartHome.c:581:6:timeScreenCrossButtonCallback	2
+../GUI/smartHome.c:591:6:timeScreenCallback	2
+../GUI/smartHome.c:610:6:setWeatherIcon	19
+../GUI/smartHome.c:687:6:createTemperatureScreen	5
+../GUI/smartHome.c:921:6:createNavScreen	1
+../GUI/smartHome.c:1057:6:createhomeScreen	3
+../GUI/smartHome.c:1293:6:createLightFanScreen	3
+../GUI/smartHome.c:1494:6:createSettingsScreen	1
+../GUI/smartHome.c:1577:6:createWifiScreen	1
+../GUI/smartHome.c:1705:6:createWifiLoadingScreen	1
+../GUI/smartHome.c:1755:6:createWifiTurningOnScreen	1
+../GUI/smartHome.c:1805:6:createWifiConnectScreen	1
+../GUI/smartHome.c:2185:6:createWifiPasswordScreen	1
+../GUI/smartHome.c:2251:6:createWifiConnectingMessageBox	1
+../GUI/smartHome.c:2293:6:createWifiErrorMessageBox	1
+../GUI/smartHome.c:2321:6:createWifiConnectingFailedMessageBox	1
+../GUI/smartHome.c:2349:6:createWifiConnectingSuccessfullMessageBox	1
+../GUI/smartHome.c:2377:6:creatCalendarScreen	1
+../GUI/smartHome.c:2429:6:creatTimeScreen	1
+../GUI/smartHome.c:2565:6:createBootScreen	1

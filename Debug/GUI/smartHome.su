@@ -1,0 +1,46 @@
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/hal/../draw/../misc/lv_color.h:593:26:lv_color_hex	24	static
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../lvgl/src/core/lv_disp.h:205:20:lv_scr_load	16	static
+../GUI/smartHome.c:249:9:stringToDayOfWeek	24	static
+../GUI/smartHome.c:261:9:stringToMonth	24	static
+../GUI/smartHome.c:273:7:dayOfWeekToString	16	static
+../GUI/smartHome.c:285:7:monthToString	16	static
+../GUI/smartHome.c:299:6:temperatureArcCallback	16	static
+../GUI/smartHome.c:305:6:coolingButtonCallback	24	static
+../GUI/smartHome.c:329:6:heatingButtonCallback	24	static
+../GUI/smartHome.c:353:6:menuButtonCallback	24	static
+../GUI/smartHome.c:363:6:temperatureButtonCallback	24	static
+../GUI/smartHome.c:373:6:homeButtonCallback	24	static
+../GUI/smartHome.c:383:6:lightFanButtonCallback	24	static
+../GUI/smartHome.c:393:6:settingsButtonCallback	24	static
+../GUI/smartHome.c:403:6:wifiButtonCallback	24	static
+../GUI/smartHome.c:422:6:dateTimeButtonCallback	24	static
+../GUI/smartHome.c:432:6:connectWifiButtonCallback	24	static
+../GUI/smartHome.c:442:6:disconectWifiButtonCallback	32	static
+../GUI/smartHome.c:458:6:wifiConnectCallback	24	static
+../GUI/smartHome.c:509:6:wifiPasswordKeyboardEvent	24	static
+../GUI/smartHome.c:521:6:closeButtonCallback	24	static
+../GUI/smartHome.c:531:6:calendarCallback	24	static
+../GUI/smartHome.c:551:6:calendarTickButtonCallback	24	static
+../GUI/smartHome.c:561:6:calendarCrossButtonCallback	24	static
+../GUI/smartHome.c:571:6:timeScreenTickButtonCallback	24	static
+../GUI/smartHome.c:581:6:timeScreenCrossButtonCallback	24	static
+../GUI/smartHome.c:591:6:timeScreenCallback	32	static
+../GUI/smartHome.c:610:6:setWeatherIcon	8	static
+../GUI/smartHome.c:687:6:createTemperatureScreen	24	static
+../GUI/smartHome.c:921:6:createNavScreen	16	static
+../GUI/smartHome.c:1057:6:createhomeScreen	24	static
+../GUI/smartHome.c:1293:6:createLightFanScreen	24	static
+../GUI/smartHome.c:1494:6:createSettingsScreen	24	static
+../GUI/smartHome.c:1577:6:createWifiScreen	24	static
+../GUI/smartHome.c:1705:6:createWifiLoadingScreen	24	static
+../GUI/smartHome.c:1755:6:createWifiTurningOnScreen	24	static
+../GUI/smartHome.c:1805:6:createWifiConnectScreen	24	static
+../GUI/smartHome.c:2185:6:createWifiPasswordScreen	8	static
+../GUI/smartHome.c:2251:6:createWifiConnectingMessageBox	16	static
+../GUI/smartHome.c:2293:6:createWifiErrorMessageBox	16	static
+../GUI/smartHome.c:2321:6:createWifiConnectingFailedMessageBox	16	static
+../GUI/smartHome.c:2349:6:createWifiConnectingSuccessfullMessageBox	16	static
+../GUI/smartHome.c:2377:6:creatCalendarScreen	32	static
+../GUI/smartHome.c:2429:6:creatTimeScreen	24	static
+../GUI/smartHome.c:2565:6:createBootScreen	16	static

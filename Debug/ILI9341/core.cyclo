@@ -1,0 +1,30 @@
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:297:22:LL_SPI_Enable	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:309:22:LL_SPI_Disable	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:555:22:LL_SPI_SetDataWidth	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:742:26:LL_SPI_IsActiveFlag_TXE	2
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:793:26:LL_SPI_IsActiveFlag_BSY	2
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:1023:22:LL_SPI_EnableDMAReq_TX	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:1056:26:LL_SPI_DMA_GetRegAddr	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h:1098:22:LL_SPI_TransmitData8	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:494:22:LL_DMA_EnableStream	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:514:22:LL_DMA_DisableStream	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:569:22:LL_DMA_ConfigTransfer	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:618:26:LL_DMA_GetDataTransferDirection	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:968:22:LL_DMA_SetDataLength	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:1402:22:LL_DMA_ConfigAddresses	2
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:2221:22:LL_DMA_ClearFlag_TC4	1
+E:/Final Projects/SMARTHomeFreeRTOS/GUI/images/../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:2586:22:LL_DMA_EnableIT_TC	1
+../ILI9341/core.c:52:13:ILI9341_Delay	1
+../ILI9341/core.c:56:6:Send_DMA_Data16	1
+../ILI9341/core.c:80:6:DMA1_Str4_TransmitComplete_Callback	1
+../ILI9341/core.c:93:6:Send_Data8	3
+../ILI9341/core.c:102:13:ILI9341_SendToTFT	2
+../ILI9341/core.c:117:6:ILI9341_SendCommand	1
+../ILI9341/core.c:134:6:ILI9341_SendCommandAndData	1
+../ILI9341/core.c:148:6:ILI9341_SendData16	1
+../ILI9341/core.c:163:6:ILI9341_SetRotation	6
+../ILI9341/core.c:190:6:ILI9341_SetAddrWindow	1
+../ILI9341/core.c:210:6:ILI9341_WritePixel	5
+../ILI9341/core.c:225:6:ILI9341_ClearDisplay	2
+../ILI9341/core.c:238:6:ILI9341_Init	3
+../ILI9341/core.c:273:6:ILI9341_fillRect	2
