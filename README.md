@@ -26,7 +26,7 @@ Features:
 * If you do not have internet access, then can set Time and Date manually.
 
 IMAGES:
-* Home Screen
+* Home Screen:
   ![Home Screen](https://github.com/user-attachments/assets/e183c80f-2757-4bdb-9e91-a8914fc68261)
 * Temperature Screen
   ![Temperature Screen](https://github.com/user-attachments/assets/431b4609-8a92-442b-ad04-d34ac3354316)
