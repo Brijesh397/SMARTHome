@@ -26,13 +26,13 @@ Features:
 * If you do not have internet access, then can set Time and Date manually.
 
 IMAGES:
-* Home Screen:
+* Home Screen:  
 ![Home Screen](https://github.com/user-attachments/assets/e183c80f-2757-4bdb-9e91-a8914fc68261)
-* Temperature Screen
+* Temperature Screen:  
 ![Temperature Screen](https://github.com/user-attachments/assets/431b4609-8a92-442b-ad04-d34ac3354316)
-* WiFi Screen
+* WiFi Screen:  
 ![Wifi Screen](https://github.com/user-attachments/assets/b0ff5c12-5b9d-41bc-b240-ec5cd2636130)
-* NAV Screen
+* NAV Screen:  
 ![NAV Screen](https://github.com/user-attachments/assets/17b5fbf4-e6b5-4732-ae96-7da9a1fab323)
 
 Features To be added:
