@@ -26,9 +26,7 @@ Features:
 * If you do not have internet access, then can set Time and Date manually.
 
 VIDEO:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg" alt="Watch the video" style="max-width:80%; border:1px solid #ddd; border-radius:4px;" />
-</a>
+[![Watch the video](https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg)](https://www.youtube.com/watch?v=407N6XnhPog)
 
 IMAGES:
 * Home Screen:  
