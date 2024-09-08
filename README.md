@@ -24,8 +24,11 @@ Features:
 * Gather Room Temperature using the MCP900 temp sensor and depending on Room Temperature and set Temperature turn on or of the Cooling / Heating.
 * Can control Light and Fans.
 * If you do not have internet access, then can set Time and Date manually.
+
 VIDEO:
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=407N6XnhPog "Now in Android: 55")
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg" alt="Watch the video" style="max-width:100%; border:1px solid #ddd; border-radius:4px;" />
+</a>
 
 IMAGES:
 * Home Screen:  
