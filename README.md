@@ -25,9 +25,7 @@ Features:
 * Can control Light and Fans.
 * If you do not have internet access, then can set Time and Date manually.
 VIDEO:
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://youtu.be/407N6XnhPog "Now in Android: 55")  
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=407N6XnhPog "Now in Android: 55")
 
 IMAGES:
 * Home Screen:  
