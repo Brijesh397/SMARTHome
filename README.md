@@ -26,7 +26,7 @@ Features:
 * If you do not have internet access, then can set Time and Date manually.
 
 VIDEO:
-[![Watch the video](https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg)](https://www.youtube.com/watch?v=407N6XnhPog)
+![Watch the video](https://www.youtube.com/watch?v=407N6XnhPog)
 
 IMAGES:
 * Home Screen:  
