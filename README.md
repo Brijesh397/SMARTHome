@@ -27,7 +27,7 @@ Features:
 
 VIDEO:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg" alt="Watch the video" style="max-width:100%; border:1px solid #ddd; border-radius:4px;" />
+  <img src="https://img.youtube.com/vi/407N6XnhPog/maxresdefault.jpg" alt="Watch the video" style="max-width:80%; border:1px solid #ddd; border-radius:4px;" />
 </a>
 
 IMAGES:
